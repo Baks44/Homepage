@@ -1,0 +1,14 @@
+.header {
+    width: 100%;
+    font-size:xx-large;
+    font-style: bold;
+    text-align: center;
+    border-style: double;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    -webkit-box-shadow: 5px 5px 15px 5px rgb(0, 0, 0);
+    box-shadow: 5px 5px 15px 5px rgb(0, 0, 0);
+
+}

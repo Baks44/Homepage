@@ -1,0 +1,69 @@
+
+.palenicaList {
+    border-style: inset;
+    border-color: rgb(255, 221, 0);
+    list-style-type: disc;
+    background-color: rgb(252, 242, 223);
+
+}
+
+.palenicaList__item {
+    text-decoration: none;
+}
+
+.palenicaList:hover {
+    background-color: rgb(255, 247, 128);
+
+}
+
+
+.stożekList {
+    border-style: inset;
+    border-color: rgb(255, 221, 0);
+    list-style-type: disc;
+    background-color: rgb(252, 242, 223);
+
+}
+
+.stożekList__item {
+    text-decoration: none;
+}
+
+.stożekList:hover {
+    background-color: rgb(255, 247, 128);
+
+}
+
+.grońList {
+    border-style: inset;
+    border-color: rgb(255, 221, 0);
+    list-style-type: disc;
+    background-color: rgb(252, 242, 223);
+
+}
+
+.grońList__item {
+    text-decoration: none;
+}
+
+.grońList:hover {
+    background-color: rgb(255, 247, 128);
+
+}
+
+.żarList {
+    border-style: inset;
+    border-color: rgb(255, 221, 0);
+    list-style-type: disc;
+    background-color: rgb(252, 242, 223);
+
+}
+
+.żarList__item {
+    text-decoration: none;
+}
+
+.żarList:hover {
+    background-color: rgb(255, 247, 128);
+
+}

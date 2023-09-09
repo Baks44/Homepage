@@ -1,0 +1,34 @@
+.navigation {
+    border-style: inset;
+    border-color: rgb(255, 221, 0);
+
+}
+
+.navigation__item {
+    padding-left: 2px;
+}
+
+.navigation__link {
+    color: rgb(130, 0, 252);
+    text-decoration: none;
+}
+
+.navigation__link:hover {
+    color: rgb(0, 0, 0);
+    outline: none;
+}
+
+.navigation__link:focus {
+    outline: 2px solid black;
+
+}
+
+.navigation__link:active {
+    outline: none;
+    color: red
+}
+
+ul {
+    list-style-type: none;
+
+}

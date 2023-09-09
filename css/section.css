@@ -1,0 +1,17 @@
+.section {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   
+}
+
+.section__header {
+    font-size: x-large;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+ 
+}
+.section__paragraph {
+    margin: auto;
+}

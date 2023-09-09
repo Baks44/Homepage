@@ -1,0 +1,33 @@
+.table {
+    overflow-x: auto;
+}
+
+.table__caption {
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-size:x-large;
+    font-style: bold;
+}
+
+
+.table__cell {
+    text-decoration: none;
+    overflow-x: auto;
+    border-collapse: collapse;
+    border-style: inset;
+    border-color: rgb(255, 221, 0);
+    text-align: center;
+    width: 100%;
+}
+
+.table__row {
+    text-decoration: none;
+    overflow-x: auto;
+    background-color: rgb(252, 242, 223);
+
+}
+
+.table__row:hover {
+    background-color: rgb(255, 247, 128);
+
+}

@@ -1,0 +1,16 @@
+html {
+    box-sizing: border-box;
+
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+
+}
+
+.body {
+    font-family: "lato", "sans-serif";
+    background-color: rgb(252, 242, 223);
+
+}
+
