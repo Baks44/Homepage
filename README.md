@@ -1,4 +1,4 @@
-# Mypage
+# Homepage
 
 ## Demo
 
