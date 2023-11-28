@@ -11,6 +11,6 @@ Hello! I want to welcome you on my very first time page. You can find here few b
 - BEM
 - ES6+
 ## Image
-  ![HomepageImage] https://github.com/Baks44/modu-03/blob/main/image/Bike%20park.jpg?raw=true
+  ![HomepageImage] https://raw.githubusercontent.com/Baks44/modu-03/main/image/Bike%20park.jpg
 ## Demo
 https://baks44.github.io/modu-03/
