@@ -10,6 +10,7 @@ Hello! I want to welcome you on my very first time page. You can find here few b
 - CSS
 - BEM
 - ES6+
-  
+## Image
+  ![HomepageImage] https://github.com/Baks44/modu-03/blob/main/image/Bike%20park.jpg?raw=true
 ## Demo
 https://baks44.github.io/modu-03/
