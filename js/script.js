@@ -12,24 +12,25 @@
 
         switch (day) {
             case "Poniedziałek":
-                howMuch.innerText = "5";
-                break;
+                return howMuch.innerText = "5";
+
             case "Wtorek":
-                howMuch.innerText = "4";
-                break;
+                return howMuch.innerText = "4";
+
             case "Środa":
-                howMuch.innerText = "3";
-                break;
+                return howMuch.innerText = "3";
+
             case "Czwartek":
-                howMuch.innerText = "2";
-                break;
+                return howMuch.innerText = "2";
+
             case "Piątek":
-                howMuch.innerText = "1";
-                break;
+                return howMuch.innerText = "1";
+
             case "Sobota":
+                return howMuch.innerText = "Mamy weekend!";
             case "Niedziela":
-                howMuch.innerText = "Mamy weekend!";
-                break;
+                return howMuch.innerText = "Mamy weekend!";
+
 
         }
     }
