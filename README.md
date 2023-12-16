@@ -12,7 +12,7 @@ Hello! I want to welcome you on my very first time page. You can find here few b
 - ES6+
 
 ## Hints
-At start, you have simple navigation from 1-5 you easily can go to section you want to read about, below you can find useful links.
+At start, you have simple navigation from 1-5 you easily can go to section you want to read about, below is a short list where you can find useful links.
 
 ## Preview
 
