@@ -13,10 +13,11 @@ Hello! I want to welcome you on my very first time page. You can find here few b
 
 ## Preview
 
+![Homepage](https://github.com/Baks44/modu-03/blob/main/image/preview.gif?raw=true)
+
+
 ## Hints
 At start, you have simple navigation from 1-5 you easily can go to section you want to read about, below you can find useful links.
-
-![Homepage](https://github.com/Baks44/modu-03/blob/main/image/preview.gif?raw=true)
 
 ![Homepage](https://github.com/Baks44/modu-03/blob/main/image/preview2.gif?raw=true)
 
