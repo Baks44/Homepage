@@ -1,7 +1,10 @@
 # Homepage
 ©2023 Bugs. All rights reserved ©
 # Introduction
-Hello! I want to welcome you on my very first time page. You can find here few bike parks the best in Poland in my opinion. **Below also is some technical information about the page, enjoy!**
+Hello! I want to welcome you on my very first time page. You can find here few bike parks, the best in Poland in my opinion. **Below also is some useful and technical information about the page, enjoy!**
+
+## Hints
+At start, you have simple navigation from 1-5 you easily can go to section you want to read about, below you can find useful links.
 
 ## Features
 - alternative box model
@@ -10,9 +13,6 @@ Hello! I want to welcome you on my very first time page. You can find here few b
 - CSS
 - BEM
 - ES6+
-
-## Hints
-At start, you have simple navigation from 1-5 you easily can go to section you want to read about, below you can find useful links.
 
 ## Image
 ![HomepageImage](https://raw.githubusercontent.com/Baks44/modu-03/main/image/Bike%20park.jpg)
