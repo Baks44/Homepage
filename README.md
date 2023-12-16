@@ -4,7 +4,7 @@
 Hello! I want to welcome you on my very first time page. You can find here few bike parks, the best in Poland in my opinion.Page is in Polish language. **Below also is some useful and technical information about the page, enjoy!**
 
 ## Features
-- alternative box model
+- Alternative box model
 - JavaScript
 - HTML
 - CSS
