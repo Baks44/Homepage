@@ -16,6 +16,7 @@ At start, you have simple navigation from 1-5 you easily can go to section you w
 
 ## Preview
 
-![Homepage]
+![Homepage](https://github.com/Baks44/modu-03/blob/main/image/preview%20homepage.gif?raw=true)
+
 ## Demo
 https://baks44.github.io/modu-03/
