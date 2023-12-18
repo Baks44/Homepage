@@ -29,3 +29,10 @@
 
     setHowMuch();
 }
+
+const init = () => {
+    welcome();
+    setHowMuch();
+}
+
+init();
