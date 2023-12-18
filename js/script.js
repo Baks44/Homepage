@@ -5,7 +5,6 @@
 
     welcome();
 
-
     const setHowMuch = () => {
         const howMuch = document.querySelector(".howMuch");
         const day = document.querySelector(".day").innerText;
@@ -25,8 +24,6 @@
                 return howMuch.innerText = "Mamy weekend!";
             case "Niedziela":
                 return howMuch.innerText = "Mamy weekend!";
-
-
         }
     }
 
